@@ -1,7 +1,7 @@
 esphome:
   name: esp-p1reader
   platform: ESP8266
-  board: nodemcu
+  board: esp01_1m
   includes:
     - p1reader.h
 
